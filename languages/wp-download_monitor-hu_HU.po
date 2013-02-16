@@ -1,0 +1,1867 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wp-download_monitor\n"
+"Language: hu\n"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/download.php:162
+msgid "You must be logged in to download this file."
+msgstr "Jelentkezz be a fájl letöltéséhez!"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/download.php:173
+#: Monitor/Development/download.php:183
+msgid "You do not have permission to download this file."
+msgstr "Nincs engedélye a letölteni ezt a fájlt."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/download.php:554
+msgid "Forcing the download of externally hosted files is not supported by this server."
+msgstr "Erőltetése a letöltést a  külsőleg tárolt fájlokat nem támogatja ez a szerver."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/download.php:560
+msgid "Download path is invalid!"
+msgstr "Letöltési útvonal érvénytelen!"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/download.php:592
+msgid "Download does not exist!"
+msgstr "Letöltés nem létezik!"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:115
+msgid "%1$s%2$s, %3$s @ %4$s : %5$s"
+msgstr "%1$s%2$s, %3$s @ %4$s : %5$s"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:185
+msgid "Add Download"
+msgstr "Letöltés hozzáadása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:209
+#: Monitor/Development/admin/dashboard.php:123
+#: Monitor/Development/admin/dashboard.php:215
+msgid "Show"
+msgstr "Mutat"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:210
+msgid "All Downloads"
+msgstr "Minden letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:211
+msgid "Downloads and categories"
+msgstr "Letöltések és kategóriák"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:216
+#: Monitor/Development/functions.inc.php:241
+#: Monitor/Development/uploader.php:807
+#: Monitor/Development/wp-download_monitor.php:126
+msgid "Downloads"
+msgstr "Letöltések"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/functions.inc.php:229
+#: Monitor/Development/legacy_shortcodes.php:264
+#: Monitor/Development/uploader.php:557
+#: Monitor/Development/uploader.php:815
+#: Monitor/Development/wp-download_monitor.php:131
+#: Monitor/Development/admin/add_directory.php:242
+#: Monitor/Development/admin/add_new.php:310
+#: Monitor/Development/admin/admin.php:645
+#: Monitor/Development/admin/admin.php:1117
+#: Monitor/Development/admin/admin.php:1355
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/init.php:29
+#: Monitor/Development/init.php:31
+msgid "Download Monitor 3.3 (and above) use a different database structure than in previous versions - this was to support multiple categories. You must update your database in order for this version to work - <strong>backup your database first</strong> then"
+msgstr "Töltse Monitor 3.3 (vagy újabb), használjon egy másik adatbázis szerkezete, mint a korábbi verziók - az volt, hogy támogatja a több kategóriában. Meg kell frissíteni az adatbázist annak érdekében, hogy ez a verzió a munka - <strong> mentés az adatbázis első </ strong>, akkor"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/init.php:29
+#: Monitor/Development/init.php:31
+msgid "click here"
+msgstr "kattintson ide"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/init.php:29
+#: Monitor/Development/init.php:31
+msgid "to run the update script"
+msgstr "futtatni a frissítést script"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/init.php:233
+msgid "Database was NOT upgraded - the rename process failed. Ensure your mysql user has ALTER, DROP, CREATE and INSERT privileges."
+msgstr "Adatbázis NEM korszerűsített - a rename folyamat sikertelen. Győződjön meg arról, mysql felhasználó ALTER, DROP, CREATE és INSERT jogosultságokat."
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/init.php:331
+msgid "Database Upgraded"
+msgstr "Adatbázis Korszerűsített"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:51
+#: Monitor/Development/legacy_shortcodes.php:77
+#: Monitor/Development/legacy_shortcodes.php:82
+#: Monitor/Development/legacy_shortcodes.php:87
+#: Monitor/Development/legacy_shortcodes.php:179
+#: Monitor/Development/legacy_shortcodes.php:223
+#: Monitor/Development/legacy_shortcodes.php:226
+#: Monitor/Development/legacy_shortcodes.php:243
+#: Monitor/Development/legacy_shortcodes.php:280
+#: Monitor/Development/shortcodes.php:62
+#: Monitor/Development/shortcodes.php:191
+#: Monitor/Development/uploader.php:478
+#: Monitor/Development/admin/add_new.php:266
+#: Monitor/Development/admin/admin.php:593
+#: Monitor/Development/admin/admin.php:1444
+msgid "Version"
+msgstr "Változat"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:51
+#: Monitor/Development/legacy_shortcodes.php:77
+#: Monitor/Development/legacy_shortcodes.php:82
+#: Monitor/Development/legacy_shortcodes.php:87
+#: Monitor/Development/legacy_shortcodes.php:179
+#: Monitor/Development/legacy_shortcodes.php:223
+#: Monitor/Development/legacy_shortcodes.php:226
+#: Monitor/Development/legacy_shortcodes.php:243
+#: Monitor/Development/legacy_shortcodes.php:280
+#: Monitor/Development/shortcodes.php:62
+#: Monitor/Development/shortcodes.php:191
+msgid "downloaded"
+msgstr "Letöltött"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:51
+#: Monitor/Development/legacy_shortcodes.php:77
+#: Monitor/Development/legacy_shortcodes.php:82
+#: Monitor/Development/legacy_shortcodes.php:87
+#: Monitor/Development/legacy_shortcodes.php:179
+#: Monitor/Development/legacy_shortcodes.php:180
+#: Monitor/Development/legacy_shortcodes.php:223
+#: Monitor/Development/legacy_shortcodes.php:226
+#: Monitor/Development/legacy_shortcodes.php:243
+#: Monitor/Development/legacy_shortcodes.php:280
+#: Monitor/Development/shortcodes.php:62
+#: Monitor/Development/shortcodes.php:191
+msgid "times"
+msgstr "szer"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:77
+#: Monitor/Development/admin/admin.php:1353
+msgid "Download"
+msgstr "Letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:180
+msgid "Downloaded"
+msgstr "Letöltve"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:219
+#: Monitor/Development/legacy_shortcodes.php:226
+#: Monitor/Development/legacy_shortcodes.php:243
+#: Monitor/Development/legacy_shortcodes.php:280
+msgid "jS M Y"
+msgstr "jS M Y"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:243
+#: Monitor/Development/legacy_shortcodes.php:280
+msgid "Added"
+msgstr "Hozzáadott"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:263
+msgid "Most Popular Downloads"
+msgstr "Legnépszerűbb letöltések"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/legacy_shortcodes.php:283
+msgid "No Downloads Found"
+msgstr "Nem talált letöltést"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/shortcodes.php:209
+msgid "No Downloads found"
+msgstr "Nincs találat Letöltések száma szerint"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/uploader.php:80
+#: Monitor/Development/uploader.php:83
+msgid "Blue"
+msgstr "Kék"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/uploader.php:81
+#: Monitor/Development/uploader.php:84
+msgid "Gray"
+msgstr "Szürke"
+
+#: /Users/mike/Desktop/Plugin Dev/Download Monitor/Development/uploader.php:93
+msgid "You do not have permission to upload files/downloads."
+msgstr "Nincs engedélye a fájlok feltöltésére / downloads."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:101
+msgid "Uploads"
+msgstr "Feltöltve"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:101
+msgid "WordPress"
+msgstr "WordPress"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:246
+#: Monitor/Development/uploader.php:695
+#: Monitor/Development/uploader.php:707
+#: Monitor/Development/admin/add_directory.php:353
+#: Monitor/Development/admin/add_directory.php:364
+#: Monitor/Development/admin/add_new.php:445
+#: Monitor/Development/admin/add_new.php:456
+#: Monitor/Development/admin/admin.php:261
+#: Monitor/Development/admin/admin.php:788
+#: Monitor/Development/admin/admin.php:800
+#: Monitor/Development/admin/admin.php:1262
+#: Monitor/Development/admin/admin.php:1274
+msgid "remove"
+msgstr "eltávolít"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:267
+#: Monitor/Development/admin/add_new.php:66
+msgid "Add New Download"
+msgstr "Új letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:268
+msgid "View Downloads"
+msgstr "Mind a Downloads"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:309
+msgid "<div id=\"media-upload-error\">Required field: <strong>Title</strong> omitted</div>"
+msgstr "<div id=\"media-upload-error\">Kötelező mező: <strong> címe </ strong> kihagyott </ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:311
+msgid "<div id=\"media-upload-error\">Invalid <strong>hits</strong> entered</div>"
+msgstr "<div id=\"media-upload-error\">Érvénytelen <strong> találatai </ strong> belépett </ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:353
+#: Monitor/Development/admin/add_new.php:135
+msgid "No file selected"
+msgstr "Nincs fájl kiválasztva"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:451
+msgid "<div id=\"media-upload-error\">Error saving to database</div>"
+msgstr "<div id=\"media-upload-error\">Hiba történt mentés adatbázis </ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:461
+msgid "Download Information"
+msgstr "Letöltési információ"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:467
+#: Monitor/Development/uploader.php:813
+#: Monitor/Development/admin/add_new.php:260
+#: Monitor/Development/admin/config.php:280
+#: Monitor/Development/admin/logs.php:52
+msgid "Title"
+msgstr "Cím"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:473
+#: Monitor/Development/admin/add_new.php:272
+#: Monitor/Development/admin/admin.php:599
+msgid "Description"
+msgstr "Leírás"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:484
+#: Monitor/Development/admin/add_new.php:276
+msgid "Starting hits"
+msgstr "Legalacsonyabb találat"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:490
+#: Monitor/Development/admin/add_new.php:282
+msgid "Select a file..."
+msgstr "Fájl kiválasztása ..."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:521
+#: Monitor/Development/admin/add_new.php:247
+#: Monitor/Development/admin/admin.php:569
+msgid " (defined in php.ini)"
+msgstr "␣(defined in php.ini)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:532
+#: Monitor/Development/admin/add_new.php:286
+msgid "Upload File"
+msgstr "Fájl feltöltése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:534
+#: Monitor/Development/admin/add_new.php:287
+#: Monitor/Development/admin/admin.php:623
+msgid "Max. filesize"
+msgstr "Max. filesize"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:534
+#: Monitor/Development/admin/add_new.php:287
+#: Monitor/Development/admin/admin.php:623
+msgid "bytes"
+msgstr "bájt"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:534
+#: Monitor/Development/admin/add_new.php:287
+#: Monitor/Development/admin/admin.php:623
+msgid "If a file with the same name already exists in the upload directly, this file will be renamed."
+msgstr "Ha egy fájl ugyanazzal a névvel már létezik a feltöltési közvetlenül, ezt a fájlt kell átnevezni."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:536
+#: Monitor/Development/uploader.php:652
+#: Monitor/Development/admin/add_new.php:290
+#: Monitor/Development/admin/add_new.php:401
+#: Monitor/Development/admin/admin.php:626
+#: Monitor/Development/admin/admin.php:736
+msgid "OR"
+msgstr "VAGY"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:537
+#: Monitor/Development/admin/add_new.php:293
+msgid "Enter file URL"
+msgstr "Adja meg a fájl URL"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:538
+#: Monitor/Development/uploader.php:654
+#: Monitor/Development/admin/add_new.php:297
+#: Monitor/Development/admin/add_new.php:407
+#: Monitor/Development/admin/admin.php:632
+#: Monitor/Development/admin/admin.php:742
+#: Monitor/Development/admin/admin.php:1217
+msgid "Toggle File Browser"
+msgstr "Toggle File Browser"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:540
+#: Monitor/Development/admin/add_directory.php:393
+#: Monitor/Development/admin/add_new.php:485
+msgid "Y-m-d H:i:s"
+msgstr "Y-m-d H:i:s"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:550
+msgid "Mirrors"
+msgstr "Tükrök"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:554
+#: Monitor/Development/admin/add_new.php:307
+#: Monitor/Development/admin/admin.php:642
+msgid "Optionally list the url's of any mirrors here (1 per line). Download monitor will randomly pick one of these mirrors when serving the download."
+msgstr "Adott kattintva az URL-cím bármely tükrök itt (1 soronként). Download monitor véletlenszerűen válasszon egy ilyen tükör, ha szolgálja a letöltést."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:598
+#: Monitor/Development/admin/add_directory.php:282
+#: Monitor/Development/admin/add_new.php:350
+#: Monitor/Development/admin/admin.php:685
+#: Monitor/Development/admin/admin.php:1164
+msgid "+ Add New Category"
+msgstr "+ Új kategória"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:601
+#: Monitor/Development/uploader.php:680
+#: Monitor/Development/admin/add_directory.php:285
+#: Monitor/Development/admin/add_directory.php:338
+#: Monitor/Development/admin/add_new.php:353
+#: Monitor/Development/admin/add_new.php:430
+#: Monitor/Development/admin/admin.php:688
+#: Monitor/Development/admin/admin.php:774
+#: Monitor/Development/admin/admin.php:1167
+#: Monitor/Development/admin/admin.php:1248
+#: Monitor/Development/admin/categories.php:106
+#: Monitor/Development/admin/categories.php:152
+#: Monitor/Development/admin/categories.php:205
+#: Monitor/Development/admin/config.php:173
+#: Monitor/Development/admin/config.php:202
+msgid "Name"
+msgstr "Név"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:605
+#: Monitor/Development/admin/add_directory.php:289
+#: Monitor/Development/admin/add_new.php:357
+#: Monitor/Development/admin/admin.php:692
+#: Monitor/Development/admin/admin.php:1171
+#: Monitor/Development/admin/categories.php:156
+#: Monitor/Development/admin/categories.php:190
+msgid "Parent"
+msgstr "Szülő"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:607
+#: Monitor/Development/admin/add_directory.php:291
+#: Monitor/Development/admin/add_new.php:359
+#: Monitor/Development/admin/admin.php:694
+#: Monitor/Development/admin/admin.php:1173
+#: Monitor/Development/admin/categories.php:158
+#: Monitor/Development/admin/categories.php:193
+#: Monitor/Development/admin/config.php:337
+msgid "None"
+msgstr "Egyik sem"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:619
+#: Monitor/Development/admin/add_directory.php:303
+#: Monitor/Development/admin/add_new.php:371
+#: Monitor/Development/admin/admin.php:706
+#: Monitor/Development/admin/admin.php:1185
+#: Monitor/Development/admin/categories.php:170
+#: Monitor/Development/admin/config.php:210
+msgid "Add"
+msgstr "Hozzáad"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:624
+#: Monitor/Development/uploader.php:816
+#: Monitor/Development/admin/add_directory.php:307
+#: Monitor/Development/admin/add_new.php:375
+#: Monitor/Development/admin/admin.php:710
+#: Monitor/Development/admin/admin.php:1189
+#: Monitor/Development/admin/admin.php:1356
+msgid "Tags"
+msgstr "Címke"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:630
+#: Monitor/Development/admin/add_directory.php:309
+#: Monitor/Development/admin/add_new.php:377
+#: Monitor/Development/admin/admin.php:712
+#: Monitor/Development/admin/admin.php:1194
+msgid "Separate tags with commas."
+msgstr "Külön címkék vesszővel elválasztva."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:638
+#: Monitor/Development/admin/add_directory.php:318
+#: Monitor/Development/admin/add_new.php:386
+#: Monitor/Development/admin/admin.php:721
+#: Monitor/Development/admin/admin.php:1203
+msgid "No Tags Found"
+msgstr "Nincs címke találat"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:644
+#: Monitor/Development/admin/add_new.php:393
+#: Monitor/Development/admin/admin.php:728
+#: Monitor/Development/admin/admin.php:1210
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:647
+#: Monitor/Development/admin/add_new.php:397
+msgid "Upload thumbnail"
+msgstr "Feltöltés thumbnail"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:650
+#: Monitor/Development/admin/add_new.php:398
+#: Monitor/Development/admin/admin.php:733
+msgid "This will be displayed on the download page or with {thumbnail} in a custom format (a placeholder will be shown if not set)."
+msgstr "Ez jelenik meg a letöltési oldalon, vagy {} thumbnail egy egyéni formátumot (a helyőrző fog megjelenni, ha nincs beállítva)."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:653
+#: Monitor/Development/admin/add_new.php:404
+msgid "Enter thumbnail URL"
+msgstr "Adja meg a thumbnail URL"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:660
+#: Monitor/Development/admin/add_directory.php:325
+#: Monitor/Development/admin/add_new.php:416
+#: Monitor/Development/admin/admin.php:751
+#: Monitor/Development/admin/admin.php:1223
+msgid "Member only file?"
+msgstr "Csak regisztrált felhasználók?"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:664
+#: Monitor/Development/admin/add_directory.php:326
+#: Monitor/Development/admin/add_new.php:417
+#: Monitor/Development/admin/admin.php:752
+#: Monitor/Development/admin/admin.php:1227
+msgid "If chosen, only logged in users will be able to access the file via a download link. You can also add a custom field called min-level or req-role to set the minimum user level needed to download the file."
+msgstr "Ha választott, csak bejelentkezett felhasználók képesek lesznek elérni a fájlt keresztül letöltési linket. Azt is hozzá egy egyéni mezőt nevű min-szintű vagy req-szerepet a minimális felhasználói szint szükséges, hogy töltse le a fájlt."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:667
+#: Monitor/Development/admin/add_directory.php:329
+#: Monitor/Development/admin/add_new.php:420
+#: Monitor/Development/admin/admin.php:755
+#: Monitor/Development/admin/admin.php:1230
+msgid "Force Download?"
+msgstr "Letöltés kényszerítése?"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:671
+#: Monitor/Development/admin/add_directory.php:330
+#: Monitor/Development/admin/add_new.php:421
+#: Monitor/Development/admin/admin.php:756
+#: Monitor/Development/admin/admin.php:1234
+msgid "If chosen, Download Monitor will attempt to force the download rather than redirect. This setting is not compatible with all servers (so test it), and in most cases will only work on files hosted on the local server."
+msgstr "Ha a választott Download Monitor megpróbálja kényszeríteni a letöltés helyett átirányítás. Ez a beállítás nem kompatibilis az összes szerver (így próbálni), és a legtöbb esetben csak akkor fog működni a fájlokat otthont a helyi szerveren."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:676
+#: Monitor/Development/admin/add_directory.php:333
+#: Monitor/Development/admin/add_new.php:425
+#: Monitor/Development/admin/admin.php:769
+#: Monitor/Development/admin/admin.php:1238
+#: Monitor/Development/admin/admin.php:1359
+msgid "Custom fields"
+msgstr "Egyéni mezők"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:681
+#: Monitor/Development/admin/add_directory.php:339
+#: Monitor/Development/admin/add_new.php:431
+#: Monitor/Development/admin/admin.php:775
+#: Monitor/Development/admin/admin.php:1249
+msgid "Value"
+msgstr "Érték"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:715
+#: Monitor/Development/admin/add_directory.php:372
+#: Monitor/Development/admin/add_new.php:464
+#: Monitor/Development/admin/admin.php:807
+#: Monitor/Development/admin/admin.php:1281
+msgid "Add Custom Field"
+msgstr "Saját mező hozzáadása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:715
+#: Monitor/Development/admin/add_directory.php:372
+#: Monitor/Development/admin/add_new.php:464
+#: Monitor/Development/admin/admin.php:807
+#: Monitor/Development/admin/admin.php:1281
+msgid "Toggle Existing Custom Fields"
+msgstr "Váltás Meglévő Egyéni mezők"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:726
+#: Monitor/Development/admin/add_directory.php:383
+#: Monitor/Development/admin/add_new.php:475
+#: Monitor/Development/admin/admin.php:818
+#: Monitor/Development/admin/admin.php:1292
+msgid "None found."
+msgstr "Nincs találat."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:733
+msgid "Save new download"
+msgstr "Mentés új letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:741
+msgid "Insert new download into post"
+msgstr "Helyezze be az új letöltés a poszt"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:743
+#: Monitor/Development/uploader.php:789
+msgid "Insert into post using format:"
+msgstr "Helyezze a poszt a formátumban:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:744
+#: Monitor/Development/uploader.php:792
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:757
+msgid "Insert into post"
+msgstr "Helyezze a poszt"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:779
+#: Monitor/Development/admin/admin.php:1341
+msgid "Search Downloads:"
+msgstr "Letöltések keresése:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:781
+#: Monitor/Development/admin/admin.php:1343
+msgid "Search Downloads"
+msgstr "Letöltések keresése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:812
+#: Monitor/Development/admin/admin.php:1352
+#: Monitor/Development/admin/categories.php:105
+#: Monitor/Development/admin/config.php:172
+#: Monitor/Development/admin/config.php:279
+#: Monitor/Development/admin/logs.php:51
+msgid "ID"
+msgstr "ID"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:814
+#: Monitor/Development/admin/admin.php:1354
+#: Monitor/Development/admin/logs.php:53
+msgid "File"
+msgstr "Fájl"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:817
+#: Monitor/Development/admin/admin.php:1357
+msgid "Member only"
+msgstr "Csak regisztrált felhasználóknak"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:818
+#: Monitor/Development/admin/admin.php:1358
+msgid "Force Download"
+msgstr "Letöltés kényszerítése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:819
+#: Monitor/Development/admin/categories.php:107
+#: Monitor/Development/admin/config.php:175
+msgid "Action"
+msgstr "Akció"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:887
+#: Monitor/Development/uploader.php:898
+#: Monitor/Development/admin/admin.php:1455
+#: Monitor/Development/admin/admin.php:1466
+msgid "N/A"
+msgstr "N / A"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:906
+#: Monitor/Development/uploader.php:909
+#: Monitor/Development/admin/admin.php:1473
+#: Monitor/Development/admin/admin.php:1476
+#: Monitor/Development/admin/config.php:301
+#: Monitor/Development/admin/config.php:315
+#: Monitor/Development/admin/config.php:359
+#: Monitor/Development/admin/config.php:372
+msgid "Yes"
+msgstr "Igen"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:906
+#: Monitor/Development/uploader.php:909
+#: Monitor/Development/admin/admin.php:1473
+#: Monitor/Development/admin/admin.php:1476
+#: Monitor/Development/admin/config.php:304
+#: Monitor/Development/admin/config.php:318
+#: Monitor/Development/admin/config.php:362
+#: Monitor/Development/admin/config.php:375
+msgid "No"
+msgstr "Nincs"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:911
+msgid "Insert"
+msgstr "Beszúrása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:935
+#: Monitor/Development/admin/admin.php:1520
+msgid "&laquo; Previous"
+msgstr "&laquo; Előző"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/uploader.php:936
+#: Monitor/Development/admin/admin.php:1521
+msgid "Next &raquo;"
+msgstr "Tovább &laquo;"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/wp-download_monitor.php:127
+#: Monitor/Development/admin/admin.php:1334
+#: Monitor/Development/admin/admin.php:1493
+#: Monitor/Development/admin/categories.php:209
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/wp-download_monitor.php:128
+msgid "Add New"
+msgstr "Új"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/wp-download_monitor.php:129
+msgid "Add Directory"
+msgstr "Könyvtárak"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/wp-download_monitor.php:133
+msgid "Configuration"
+msgstr "Beállítások"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/wp-download_monitor.php:134
+msgid "Log"
+msgstr "Log"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:43
+msgid "Add From Directory"
+msgstr "Könyvtár hozzáadása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:45
+msgid "This feature lets you add downloads in bulk from a directory <strong>on your server</strong>. It will attempt to read sub-directories too. It will do its best to choose relevant titles for each download - if you need to change titles or add extra information you will have to edit the downloads afterwards."
+msgstr "Ez a funkció lehetővé teszi hozzá letöltve ömlesztve egy könyvtárat <strong> a kiszolgáló </ strong>. Ez megpróbálja olvasni alkönyvtárakat is. Ez mindent megtesz annak érdekében, hogy válassza ki a releváns címeket minden egyes letöltés - ha meg kell változtatni címek vagy extra információt meg kell szerkeszteni a letöltés után."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:59
+msgid "<div class=\"error\">No folder selected</div>"
+msgstr "<div class=\"error\">Nincs kiválasztott mappába</ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:215
+msgid "Downloads added Successfully"
+msgstr "Letöltések sikeresen hozzáadva"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:217
+msgid "No files found"
+msgstr "Nem található fájlok"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:226
+msgid "Directory (relative paths only)"
+msgstr "Könyvtár (relatív elérési utak esetén)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:230
+msgid "Toggle Folder Browser"
+msgstr "Toggle Folder Browser"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:236
+msgid "Extensions"
+msgstr "Kiterjesztések"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:238
+msgid "List extensions to look for separated by commas, or leave blank to import all. Example: zip,gif,jpg"
+msgstr "List kiterjesztések keresni vesszővel elválasztva, vagy hagyja üresen importálni. Példa: zip, gif, jpg"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:334
+#: Monitor/Development/admin/add_new.php:426
+#: Monitor/Development/admin/admin.php:770
+#: Monitor/Development/admin/admin.php:1239
+msgid "Custom fields can be used to add extra metadata to a download. Leave blank to add none. Name should be lower case with no spaces (changed automatically, e.g. <code>Some Name</code> will become <code>some-name</code>."
+msgstr "Egyéni mezők lehet használni extra metaadatok a letöltés. Hagyja üresen hozzá senki. Név kell kisbetű, szóköz nélkül (automatikusan megváltozik, pl <code> Bizonyos neve </ code> lesz <code> valami neve </ code>."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_directory.php:392
+msgid "Scan &amp; Add"
+msgstr "Szkennelés &amp; hozzáadása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:88
+msgid "<div class=\"error\">Required field: <strong>Title</strong> omitted</div>"
+msgstr "<div class=\"error\">Kötelező mező:<strong> címe </ strong> kihagyott </ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:90
+msgid "<div class=\"error\">Invalid <strong>hits</strong> entered</div>"
+msgstr "<div class=\"error\">Érvénytelen<strong> találatai </ strong> belépett </ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:232
+#: Monitor/Development/admin/add_new.php:233
+msgid "Download added Successfully"
+msgstr "Töltse le sikeresen hozzáadva"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:238
+msgid "<div class=\"error\">Error saving to database</div>"
+msgstr "<div class=\"error\">Hiba történt mentés adatbázis</ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:260
+#: Monitor/Development/admin/add_new.php:282
+#: Monitor/Development/admin/admin.php:616
+msgid "(required)"
+msgstr "(Kötelező)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:306
+#: Monitor/Development/admin/admin.php:641
+msgid "Download Mirrors"
+msgstr "Letöltés Mirrors"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/add_new.php:484
+msgid "Upload &amp; save"
+msgstr "Feltöltés és mentés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:102
+#: Monitor/Development/admin/admin.php:321
+msgid "Are you sure you want to delete"
+msgstr "Biztos benne, hogy törölni szeretné"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:320
+msgid "Sure?"
+msgstr "Biztos?"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:321
+msgid "? (If originally uploaded by this plugin, this will also remove the file from the server)"
+msgstr "? (Ha eredetileg feltöltötte ezt a plugint, akkor ez is eltávolítja a fájlt a szerver)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:321
+msgid "[yes]"
+msgstr "[Igen]"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:321
+msgid "[no]"
+msgstr "[No]"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:366
+msgid "Required field: <strong>Title</strong> omitted"
+msgstr "Kötelező mező: <strong> címe </ strong> kihagyott"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:367
+msgid "Required field: <strong>THE FILE</strong> omitted"
+msgstr "Kötelező mező: <strong> THE FILE </ strong> kihagyott"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:369
+msgid "Invalid <strong>hits</strong> entered"
+msgstr "Érvénytelen <strong> találat </ strong> belépett"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:451
+msgid "<div class=\"error\">No file selected</div>"
+msgstr "<div class=\"error\"> Nincs fájl kiválasztva </ div>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:509
+msgid "Download edited Successfully"
+msgstr "Letöltést sikeresen szerkesztette"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:580
+msgid "Edit Download Information"
+msgstr "Letöltési információ szerkesztése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:587
+msgid "Title (required)"
+msgstr "Cím (kötelező)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:603
+msgid "Change hit count"
+msgstr "Változás hit count"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:609
+msgid "Change post date"
+msgstr "Módosítása feladásának dátuma"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:612
+msgid "Change the post date of the download. Was set to:"
+msgstr "Módosítása feladásának dátuma a letöltés. Állítottuk be:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:612
+msgid "M jS Y @ H:i"
+msgstr "M jS Y @ H:i"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:616
+msgid "The File"
+msgstr "A fájl"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:620
+msgid "Upload New File"
+msgstr "Új fájl feltöltése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:622
+msgid "Remove old file?"
+msgstr "Törölje a régi fájlt?"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:629
+msgid "Edit File URL"
+msgstr "Fájl URL szerkesztése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:732
+msgid "Upload new thumbnail"
+msgstr "Új thumbnail feltöltése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:739
+msgid "Edit thumbnail URL"
+msgstr "Thumbnail URL szerkesztés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:826
+#: Monitor/Development/admin/admin.php:1300
+#: Monitor/Development/admin/config.php:196
+#: Monitor/Development/admin/config.php:285
+#: Monitor/Development/admin/config.php:399
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:864
+msgid "Download deleted Successfully"
+msgstr "Töltse le sikeresen törölve"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:902
+msgid "Stats successfully reset for selected downloads"
+msgstr "Bontás sikeresen alaphelyzetbe a kiválasztott letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:944
+msgid "Selected Downloads deleted Successfully"
+msgstr "Kiválasztott letöltések törlése sikeres"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1099
+msgid "Downloads edited successfully"
+msgstr "Letöltéseket szerkesztése sikeres"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1109
+msgid "Bulk Edit Downloads"
+msgstr "Tömeges letöltés szerkesztése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1110
+msgid "Editing downloads with id's:"
+msgstr "Szerkesztés letöltve azonosítójú évek:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1110
+msgid "Adding options here will overwrite the options in ALL of the selected downloads."
+msgstr "Hozzáadása lehetőség van felülírja a beállításokat ALL a kiválasztott letöltés."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1120
+#: Monitor/Development/admin/admin.php:1192
+#: Monitor/Development/admin/admin.php:1213
+#: Monitor/Development/admin/admin.php:1225
+#: Monitor/Development/admin/admin.php:1232
+#: Monitor/Development/admin/admin.php:1241
+#: Monitor/Development/admin/categories.php:192
+msgid "No Change"
+msgstr "Nincs változás"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1121
+msgid "Change to &darr;"
+msgstr "Váltás &darr;"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1193
+#: Monitor/Development/admin/admin.php:1214
+#: Monitor/Development/admin/admin.php:1226
+#: Monitor/Development/admin/admin.php:1233
+msgid "Change to &rarr;"
+msgstr "Váltás &rarr;"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1242
+msgid "Replace with:"
+msgstr "Csere:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1243
+msgid "Add/Update only (keep existing fields):"
+msgstr "Hozzáadása / frissítése (csak tartani a meglévő mezők):"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1323
+msgid "Edit Downloads"
+msgstr "Letöltés szerkesztése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1331
+#: Monitor/Development/admin/admin.php:1490
+msgid "Actions:"
+msgstr "Intézkedések:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1333
+#: Monitor/Development/admin/admin.php:1492
+msgid "Bulk Actions"
+msgstr "Tömeges műveletek"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1335
+#: Monitor/Development/admin/admin.php:1494
+msgid "Delete"
+msgstr "Töröl"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1336
+#: Monitor/Development/admin/admin.php:1495
+msgid "Reset Stats"
+msgstr "Statisztika alaphelyzetbe állítása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1338
+#: Monitor/Development/admin/admin.php:1497
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1360
+msgid "Hits"
+msgstr "Kattintás"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1361
+msgid "Posted"
+msgstr "Megjelenés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1424
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1481
+msgid "by"
+msgstr "által"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1485
+msgid "No downloads found."
+msgstr "Nincs letöltés találat."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1544
+msgid "You are about to delete the selected items.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr "Arra készül, hogy törli a kijelölt elemeket.\n"
+"  'Mégsem', hogy hagyja abba, 'OK' a törléshez."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1559
+msgid "Download Monitor News"
+msgstr "Töltse le a Monitor Hírek"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1583
+msgid "%s ago"
+msgstr "%s ezelőtt"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1585
+msgid "F jS Y"
+msgstr "F jS Y"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1594
+msgid "No items found."
+msgstr "Nincs találat."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1602
+msgid "Links, Help &amp; Support"
+msgstr "Linkek, Segítség és támogatás"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1604
+msgid "<p>Need help? FAQ, Usage instructions and other notes can be found on the WordPress.org plugin page <a href=\"http://wordpress.org/extend/plugins/download-monitor/\">here</a>.</p>"
+msgstr "<p>Segítségre van szüksége? FAQ, használati utasítás és egyéb megjegyzések találhatók a WordPress.org plugin oldalán <a href=\"http://wordpress.org/extend/plugins/download-monitor/\">itt </ a>.</ P>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1605
+msgid "<p>You can also find documentation and support at the following locations:</p>"
+msgstr "<p>is megtalálhatja dokumentációt és támogatást a következő helyeken:</ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1607
+msgid "Download Monitor on Blue-Anvil"
+msgstr "Töltse Monitor Blue-Anvil"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1608
+msgid "Download Monitor Documentation"
+msgstr "Töltse Monitor Dokumentáció"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1609
+msgid "Support Forum"
+msgstr "Fórum"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1614
+msgid "Support Download Monitor"
+msgstr "Támogatás Letöltés Monitor"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1616
+msgid "The Wordpress Download monitor plugin was created by <a href=\"http://blue-anvil.com/\">Mike Jolley</a>. The development of this plugin took a lot of time and effort, so please don't forget to donate if you found this plugin useful."
+msgstr "A Wordpress Download monitor Plugin készítette <a href=\"http://blue-anvil.com/\">Mike Jolley</ a>. A fejlesztés ezen bővítmény vett sok időt és energiát, ezért kérjük, ne felejtse el adományozni, ha hasznosnak találta ezt az plugint."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/admin.php:1618
+msgid "There are also other ways of supporting download monitor to ensure it is maintained and well supported in the future! Leaving the sponsor messages enabled, rating the plugin on wordpress.org (if you like it), linking/spreading the word, and submitting code contributions will all help."
+msgstr "Vannak még más módon támogató download monitor annak érdekében, hogy fennmaradjon és jól támogatott a jövőben! Elhagyva a megbízó üzeneteket bekapcsolt, értékelése a plugin a wordpress.org (ha tetszik), amely összeköti / terjesztik az igét, és benyújtotta kód hozzájárulások minden segítséget."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:38
+msgid "Download Categories"
+msgstr "Töltse kategóriák"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:40
+msgid "<p>You can categorise downloads using these categories. You can then show groups of downloads using the category tags or a dedicated download page (see documentation). Please note, deleting a category also deletes it's child categories.</p>"
+msgstr "<p> kategorizálni letöltve segítségével ezeket a kategóriákat. Ezután azt mutatják, csoportok letöltve a kategóriában tag vagy dedikált letöltési oldalra (lásd a dokumentációt). Felhívjuk figyelmét, hogy törli a kategóriát is törli gyermekének kategóriák.</ P>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:62
+msgid "Category updated"
+msgstr "Kategória frissítve"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:75
+msgid "Category added"
+msgstr "Kategória hozzáadott"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:76
+msgid "Category was not added. Try Recreating the download database from the configuration page."
+msgstr "Kategória: nem volt hozzá. Próbálja ki a letöltés újbóli adatbázis a konfigurációs oldalon."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:97
+msgid "Category deleted Successfully"
+msgstr "Kategória sikeresen törölve"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:143
+msgid "No categories exist"
+msgstr "No kategóriák léteznek"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:149
+msgid "Add category"
+msgstr "Kategória hozzáadása"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:173
+msgid "Edit category"
+msgstr "Szerkesztés kategória"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:176
+msgid "Category"
+msgstr "Kategória"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/categories.php:178
+#: Monitor/Development/admin/dashboard.php:205
+msgid "Select a category"
+msgstr "Válasszon egy kategóriát"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:41
+msgid "Download Monitor Configuration"
+msgstr "Letöltési monitor beállításai"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:54
+msgid "<p>Download URL updated - You need to <strong>re-save your permalinks settings</strong> (Options/settings -> Permalinks) for \n"
+"\t\t\t\t\t\tthe changes to occur in your blog.</p>\n"
+"\t\t\t\t\t\t<p>If your .htaccess file cannot be written to by WordPress, add the following to your \n"
+"\t\t\t\t\t.htaccess file above the \"# BEGIN WordPress\" line:</p>\n"
+"\t\t\t\t\t\t<p>Options +FollowSymLinks<br/>\n"
+"\t\t\t\t\t\tRewriteEngine on<br/>\n"
+"\t\t\t\t\t\tRewriteRule ^download/([^/]+)$ *your wp-content dir*/plugins/download-monitor/download.php?id=$1 [L]</p>\n"
+"\t\t\t\t\t\t<p>replacing \"download/\" with your custom url and \"*your wp-content dir*\" with your wp-content directory.</p>"
+msgstr "<p> Download URL frissítés - Be kell <strong> újra mentéséhez permalinks beállítások </ strong> (Beállítások / Beállítások -> Permalinks) a\n"
+"változások fordulnak elő a blogodban. </ p>\n"
+"<p> Ha. htaccess fájl nem írható by WordPress, adjuk hozzá az alábbi sort a\n"
+". Htaccess fájl felett \"# BEGIN WordPress\" sor: </ p>\n"
+"<p> Options + FollowSymLinks <br/>\n"
+"RewriteEngine on <br/>\n"
+"RewriteRule ^ download / ([^ /] +) $ * a wp-content dir * / plugins / download-monitor / download.php? Id = $ 1 [L] </ p>\n"
+"<p> helyébe \"download /\" a saját url, és \"* a wp-content dir *\" vannak a wp-content könyvtárba. </ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:65
+msgid "<p>Download URL updated - You need to <strong>re-save your permalinks settings</strong> (Options/settings -> Permalinks) for \n"
+"\t\t\t\t\t\tthe changes to occur in your blog.</p>\n"
+"\t\t\t\t\t\t<p>If your .htaccess file cannot be written to by WordPress, remove the following from your \n"
+"\t\t\t\t\t.htaccess file if it exists above the \"# BEGIN WordPress\" line:</p>\n"
+"\t\t\t\t\t\t<p>Options +FollowSymLinks<br/>\n"
+"\t\t\t\t\t\tRewriteEngine on<br/>\n"
+"\t\t\t\t\t\tRewriteRule ^download/([^/]+)$ *your wp-content dir*/plugins/download-monitor/download.php?id=$1 [L]</p>\n"
+"\t\t\t\t\t\t<p>replacing \"download/\" with your previous custom url and \"*your wp-content dir*\" with your wp-content directory.</p>"
+msgstr "<p>Download URL frissítés - Be kell <strong> újra mentéséhez permalinks beállítások </ strong> (Beállítások / Beállítások -> Permalinks) a\n"
+"változások fordulnak elő a blogodban.</ p>\n"
+"<p>Ha. htaccess fájl nem írható by WordPress, távolítsa el a következő, saját\n"
+". Htaccess fájlt, ha létezik felett a \"# BEGIN WordPress\" sor: </ p>\n"
+"<p>Options + FollowSymLinks <br/>\n"
+"RewriteEngine on <br/>\n"
+"RewriteRule ^ download / ([^ /] +) $ * a wp-content dir * / plugins / download-monitor / download.php? Id = $ 1 [L] </ p>\n"
+"<p> helyébe \"download /\" vannak a korábbi egyéni url és \"* a wp-content dir *\" vannak a wp-content könyvtárba.</ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:96
+msgid "<p>Options updated</p>"
+msgstr "<p>Opciók frissítés</ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:106
+msgid "Database Cleaned"
+msgstr "Adatbázis Tisztított"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:125
+msgid "Formats updated"
+msgstr "Formátumok frissítés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:136
+msgid "Format added"
+msgstr "Formátum hozzáadott"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:150
+msgid "Format deleted Successfully"
+msgstr "Formátum sikeresen törölve"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:165
+msgid "Custom Output Formats"
+msgstr "Egyéni kimeneti formátumok"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:167
+msgid "<p>This allows you to define formats in which to output your downloads however you want.</p>"
+msgstr "<p>Ez lehetővé teszi, hogy meghatározza formátumok, amelyek kiadásra a letöltések, ahogy akarod.</ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:174
+#: Monitor/Development/admin/config.php:206
+msgid "Format"
+msgstr "Formátum"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:191
+msgid "No formats exist"
+msgstr "No formátumok léteznek"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:198
+msgid "Add format"
+msgstr "Felvétel formátuma"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:212
+msgid "Available Tags"
+msgstr "Elérhető címkék"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:214
+msgid "Use the following tags in your custom formats: <em>note</em> if you use <code>\"</code> (quote) characters within the special attributes e.g. <code>\"before\"</code> you should either escape them or use html entities."
+msgstr "Használja a következő tag-eket az egyedi formátumok: <em> megjegyzés </ em>, ha használja <code> \"</ code> (idézet) karakter a különleges tulajdonságok pl <code>\" előtte \"</ code> be sem menekülés, vagy használja html entitások."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:216
+msgid "Url of download (does not include hyperlink)"
+msgstr "URL letöltése (nem tartalmazza a hyperlink)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:217
+msgid "ID of download"
+msgstr "Azonosítója letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:218
+msgid "Username of whoever posted download"
+msgstr "Felhasználónév aki a beírás letölteni"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:219
+msgid "Version of download"
+msgstr "Verziója letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:220
+msgid "Version of download. Not outputted if none set. Replace \"before\" with preceding text/html and \"after\" with succeeding text/html."
+msgstr "Változata letölthető. Nem kimeneten, ha nincs meg. Csere \"előtt\" az előző text / html és \"utáni\" a siker text / html."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:221
+msgid "Title of download"
+msgstr "Címe letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:222
+msgid "Filesize of download"
+msgstr "Fájlméret A letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:223
+msgid "Outputs comma separated list of categories."
+msgstr "Kimenetek vesszővel elválasztott listája kategóriákban."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:224
+msgid "Outputs comma separated list of categories contained in a link with the href you define. <code>%</code> replaced with category id. <code>%2</code> replaced with category name. This can be used with the <code>[download_page]</code>."
+msgstr "Kimenetek vesszővel elválasztott listája kategóriák foglalt kapcsolat a href határozná meg. <code>% </ code> helyébe kategória id. <code>% 2 </ code> helyébe kategória nevét. Ezt fel lehet használni a <code> [download_page] </ code>."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:225
+#: Monitor/Development/admin/config.php:226
+#: Monitor/Development/admin/config.php:231
+#: Monitor/Development/admin/config.php:232
+msgid "or"
+msgstr "vagy"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:225
+msgid "(Top Level/First) Download Category. Replace \"before\" with preceding text/html and \"after\" with succeeding text/html."
+msgstr "(Top Level / First) letöltése kategória. Csere \"előtt\" az előző text / html és \"utáni\" a siker text / html."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:226
+msgid "(Top Level/First) Download Category (but if no category is set \"other\" is returned. Replace \"before\" with preceding text/html and \"after\" with succeeding text/html."
+msgstr "(Top Level / First) Letöltés Kategória (de ha nincs kategória beállítása \"egyéb\" tér vissza. Cserélje \"előtt\" az előző text / html és \"utáni\" a siker text / html."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:227
+msgid "(Top Level/First) Download Category ID."
+msgstr "(Top Level / First) letöltése kategória ID."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:228
+msgid "Current hit count"
+msgstr "Jelenlegi hit count"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:229
+msgid "Formatted hit count depending on hits. <code>%</code> replaced with hit count."
+msgstr "Formázott hit count függően találat. <code>% </ code> helyett hit számít."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:230
+msgid "URL of the download image"
+msgstr "URL a letöltés kép"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:231
+msgid "Description you gave download. Not outputted if none set. Replace \"before\" with preceding text/html and \"after\" with succeeding text/html."
+msgstr "Leírás adtál download. Nem kimeneten, ha nincs meg. Csere \"előtt\" az előző text / html és \"utáni\" a siker text / html."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:232
+msgid "Description formatted with autop (converts double line breaks to paragraphs)"
+msgstr "Leírás formázott autop (alakítja dupla sortörés bekezdések)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:233
+msgid "Date posted. Second argument is for date format."
+msgstr "Napja. A második érv a dátum formátum."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:234
+msgid "Outputs comma separated list of tags."
+msgstr "Kimenetek vesszővel elválasztott listája címkéket."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:235
+msgid "Outputs comma separated list of tags contained in a link with the href you define. <code>%</code> replaced with tag id. <code>%2</code> replaced with tag name."
+msgstr "Kimenetek vesszővel elválasztott listája címkék foglalt kapcsolat a href határozná meg. <code>% </ code> helyébe tag id. <code>% 2 </ code> helyett címke nevét."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:236
+msgid "Output thumbnail URL (or placeholder)"
+msgstr "Output indexkép URL (vagy helyőrző)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:237
+msgid "Custom field value"
+msgstr "Egyéni mező értéke"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:238
+msgid "Custom field value formatted with autop"
+msgstr "Egyedi mező értéke formázott autop"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:239
+msgid "File extension (e.g. \"zip\")"
+msgstr "Fájlkiterjesztés (például \"zip\")"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:240
+msgid "File extension icon (16x16)"
+msgstr "Fájlkiterjesztés ikon (16x16)"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:241
+msgid "Output a Mirror's url"
+msgstr "Kimenet Mirror url"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:244
+msgid "Example Formats"
+msgstr "Példa formátumok"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:246
+msgid "Here are some example custom formats you can use or modify."
+msgstr "Íme néhány példa az egyéni formátumokat használhatja vagy módosíthatja."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:248
+msgid "Link and description of download with hits in title:"
+msgstr "Link és leírása letöltés a találatok címe:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:249
+msgid "Standard link with no hits:"
+msgstr "Szabványos kapcsolat nélküli találat:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:250
+msgid "Image link:"
+msgstr "Kép link:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:257
+msgid "Custom Download URL"
+msgstr "Egyéni letöltési URL"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:259
+msgid "<p>Set a custom url for your downloads, e.g. <code>download/</code>. You can also choose how to link to the download in it's url, e.g. selecting \"filename\" would make the link appear as <code>http://yoursite.com/download/filename.zip</code>. This option will only work if using wordpress permalinks (other than default).</p>\n"
+"            \t\n"
+"                        <p>Leave this option blank to use the default download path (<code>/download-monitor/download.php?id=</code>)</p>\n"
+"                        <p>If you fill in this option ensure the custom directory does not exist on the server nor does it match a page or post's url as this can cause problems redirecting to download.php.</p>"
+msgstr "<p> beállítása egyéni url a letöltés, például <code> download / </ code>. Azt is megadhatja, hogyan lehet összekapcsolni a letölthető ez az url, például válassza ki a \"fájlnév\" tenné a kapcsolatot jelennek <code> http://yoursite.com/download/filename.zip </ code>. Ez az opció csak akkor működik, ha a wordpress permalinks (nem alapértelmezett). </ P>\n"
+"            \n"
+"                        <p> Hagyja ezt az opciót üresen az alapértelmezett letöltési útvonalat (<code> / download-monitor/download.php? id = </ code>) </ p>\n"
+"                        <p> Ha töltse ki ezt a lehetőséget biztosítja az egyéni könyvtár nem létezik a szerveren és nem egyezik az oldal, vagy postai úton a url, mivel ez problémákat okozhat átirányítani download.php. </ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:265
+msgid "Without Custom URL:"
+msgstr "Egyéni URL nélkül:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:270
+msgid "With Custom URL (downloads/ID):"
+msgstr "Az Egyéni URL (letöltés / ID):"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:276
+msgid "Custom URL"
+msgstr "Egyéni URL"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:281
+msgid "Filename"
+msgstr "Fájlnév"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:290
+msgid "General Options"
+msgstr "Általános beállítások"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:296
+msgid "I Appreciate This Plugin, And I've Contributed to the Effort!"
+msgstr "Nagyra értékelem ezt a plugint, és én már hozzájárult ahhoz, hogy az erőfeszítést!"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:306
+msgid "If you would like to say thanks for Download Monitor there are many ways to do so, for example: spreading the word or making a donation. If you have already done so you can indicate that here (thanks by the way). For direct contributors, sponsorship messages will be disabled. (Please see the readme file for full details about sponsorship messages and how your privacy is protected)."
+msgstr "Ha szeretné megköszönni Letöltés Monitor számos módja van erre, például: elterjedésének a szót, vagy hogy egy adomány. Ha már megtette, így jelzi, hogy here (hála az úton). A közvetlen közreműködők, a szponzorálásra üzenet le lesz tiltva. (Kérjük, olvassa el a readme fájlt a részletes információk szponzori üzeneteket, és hogyan a magánélet védelmét)."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:310
+msgid "Disable the news/links/donate box on the Edit Download Page?"
+msgstr "Tiltsa le a news / links / adományozni box a Szerkesztés Download oldal?"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:323
+msgid "\"Download not found\" redirect URL"
+msgstr "\"Letöltés nem található\" átirányított URL"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:324
+#: Monitor/Development/admin/config.php:328
+msgid "Leave blank for no redirect."
+msgstr "Hagyja üresen, ha nincs átirányítás."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:327
+msgid "Member-only files non-member redirect"
+msgstr "Csak regisztrált felhasználóknak, látogatók átirányítva"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:328
+msgid "Note: <code>{referrer}</code> will be replaced with current url. Useful if sending user to the login page and then back to the download :) e.g. <code>http://yourdomain.com/wp-login.php?redirect_to={referrer}</code>."
+msgstr "Megjegyzés: <code> {referrer} </ code> lesz cserélve a jelenlegi url. Hasznos, ha küld felhasználót a bejelentkező oldalra, majd vissza a letöltés :) pl <code> http://yourdomain.com/wp-login.php?redirect_to = {referrer} </ code>."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:331
+msgid "Download image path"
+msgstr "Kép letöltése útvonal"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:332
+msgid "This image is used when using the <code>#image</code> download tag and the <code>{image_url}</code> tag on this page. Please use an absolute url (e.g. <code>http://yoursite.com/image.gif</code>)."
+msgstr "Ez a kép akkor használható, ha a <code> # image </ code> letöltés A címke és a <code> image_url {} </ code> címke ezen az oldalon. Kérjük, használja abszolút url (pl. <code> http://yoursite.com/image.gif </ code>)."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:335
+msgid "Default output format"
+msgstr "Alapértelmezett kimeneti formátum"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:354
+msgid "Log Downloads"
+msgstr "Log"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:367
+msgid "Enable File Browser"
+msgstr "Enable File Browser"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:380
+msgid "File Browser Root"
+msgstr "File Browser Root"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:381
+msgid "The root directory the file browser can display."
+msgstr "A gyökér könyvtárat a fájl böngészőben megjeleníteni."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:404
+msgid "Advanced Stuff"
+msgstr "Advanced Stuff"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:406
+msgid "Upgrade from 3.2.3"
+msgstr "Frissítés 3.2.3"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:407
+msgid "<p>Download monitor uses new tables from version 3.3 onwards; this was to clean things up and add multiple category support.</p>"
+msgstr "<p> Download monitor használat új táblázatokat a változat 3,3-től, ez volt a tiszta dolgokat, és adjunk hozzá több kategóriában support. </ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:408
+msgid "<p>This update should have been done when you activated the plugin, but if it didn't, use this function to create the new tables and import from the old ones.</p>"
+msgstr "<p> Ez a frissítés kellett volna tenni, ha aktiválta a plugin, de ha nem, használja ezt a funkciót, hogy létrehozza az új táblákat és import a régiek. </ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:410
+msgid "Upgrade Database"
+msgstr "Cseréld Database"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:413
+msgid "Upgraded Successfully? Cleanup!"
+msgstr "Korszerűsített Sikeresen? Razzia!"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:414
+msgid "<p>As stated above, tables were renamed from 3.3 onwards - if the upgrade has been successful (woo) you may use this function to delete the old tables (I left them there as a backup).</p>"
+msgstr "<p> Mint már említettük, táblák átnevezték 3,3-től - ha a frissítés sikeres volt (woo), akkor használja ezt a funkciót, hogy törölje a régi táblák (hagytam ott őket, mint egy hát.) </ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:415
+msgid "<p>WARNING: THIS MAY DELETE DOWNLOAD DATA IN THE DATABASE; BACKUP YOUR DATABASE FIRST!</p>"
+msgstr "<p> FIGYELEM: Ez a DELETE LETÖLTÉSEK adatok az adatbázisban, hát a DATABASE ELSŐ! </ p>"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/config.php:417
+msgid "Clean me up Scotty"
+msgstr "Tisztítsuk meg engem Scotty"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:72
+msgid "D j M"
+msgstr "D j M"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:74
+msgid "Previous Week"
+msgstr "Előző hét"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:75
+msgid "This Week"
+msgstr "Ezen a héten"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:76
+msgid "Next Week"
+msgstr "Következő hét"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:97
+msgid "F Y"
+msgstr "F Y"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:99
+msgid "Previous 6 months"
+msgstr "Előző 6 hónapban"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:100
+msgid "Last 6 months"
+msgstr "Utolsó 6 hónap"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:101
+msgid "Next 6 months"
+msgstr "Következő 6 hónap"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:111
+msgid "Weekly"
+msgstr "Heti"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:114
+msgid "Monthly"
+msgstr "Havi"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:115
+msgid "Select a download"
+msgstr "Válassza ki a letöltés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:143
+msgid "Downloads per day for"
+msgstr "Letöltések száma naponta"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:146
+#: Monitor/Development/admin/dashboard.php:221
+msgid "Day"
+msgstr "Nap"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:147
+#: Monitor/Development/admin/dashboard.php:222
+msgid "Number of downloads"
+msgstr "Letöltések száma"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:182
+msgid "None Found"
+msgstr "Semelyik találat"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:218
+msgid "Most Downloaded"
+msgstr "Leggyakrabban letöltöttek"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:249
+msgid "No stats yet"
+msgstr "No stats Még"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:261
+#: Monitor/Development/admin/dashboard.php:282
+msgid "Download Stats"
+msgstr "Download Stats"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/dashboard.php:262
+#: Monitor/Development/admin/dashboard.php:316
+msgid "Top 5 Downloads"
+msgstr "Top 5 Letöltések"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/log_to_csv.php:41
+#: Monitor/Development/admin/logs.php:85
+msgid "jS M Y H:i:s"
+msgstr "jS M Y H:i:s"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:45
+msgid "Download Logs"
+msgstr "Töltse Naplók"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:47
+msgid "Download CSV"
+msgstr "Letöltés CSV"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:47
+msgid "Clear Log"
+msgstr "Napló törlése"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:54
+msgid "User"
+msgstr "Felhasználló"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:55
+msgid "IP Address"
+msgstr "IP Address"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:56
+msgid "Date"
+msgstr "Dátum"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:107
+msgid "No downloads logged."
+msgstr "Nincs letöltés rögzítve."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:119
+#: Monitor/Development/admin/logs.php:120
+msgid "Previous"
+msgstr "Előző"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/admin/logs.php:133
+#: Monitor/Development/admin/logs.php:134
+msgid "Next"
+msgstr "Következő"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/classes/downloadable_file.class.php:285
+#: Monitor/Development/classes/downloadable_file.class.php:294
+#: Monitor/Development/classes/downloadable_file.class.php:316
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:55
+msgid "Other"
+msgstr "Más"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/classes/downloadable_file.class.php:303
+msgid "Uncategorized"
+msgstr "Uncategorized"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/classes/downloadable_file.class.php:335
+msgid "#Mirror-not-found"
+msgstr "#Mirror-nem-találtható"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:53
+msgid "Popular Downloads"
+msgstr "Népszerű letöltések"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:57
+msgid "Go"
+msgstr "Keresés"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:58
+msgid "Results found for "
+msgstr "Találat"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:59
+msgid "No downloads were found."
+msgstr "Nincs letöltés találat."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:60
+msgid "No download found matching given ID."
+msgstr "Nem talált letöltés a megadott azonosítón."
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:67
+msgid " time"
+msgstr "␣idő"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:68
+msgid " times"
+msgstr "␣szer"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:69
+msgid "Date posted"
+msgstr "Napja"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:70
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:72
+msgid "Read More"
+msgstr "Tovább"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:73
+msgid "Sub-Categories:"
+msgstr "Sub-kategóriák:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:74
+msgid "Sort by:"
+msgstr "Rendezés:"
+
+#: /Users/mike/Desktop/Plugin Dev/Download
+#: Monitor/Development/page-addon/download-monitor-page-addon.php:75
+msgid "Downloads tagged:"
+msgstr "Letöltések címkéi:"
+
